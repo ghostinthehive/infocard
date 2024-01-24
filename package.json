@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "name": "infocard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d base"
+  },
+  "author": "ghostinthehive",
+  "license": "ISC",
+  "description": "contacts reference",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostinthehive/infocard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ghostinthehive/infocard/issues"
+  },
+  "homepage": "https://ghostinthehive.githib.io/infocard",
+  "keywords": []
+}
